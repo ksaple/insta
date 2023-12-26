@@ -1,0 +1,14 @@
+ul{
+    list-style: square;
+    background-image: linear-gradient(lightpink,purple);
+}
+
+ol{
+    background-image:linear-gradient(blue,red);
+}
+ol{
+    background-image:linear-gradient(yellow,green) ;
+}
+body{
+    font-family: 'Sevillana', cursive;
+}
